@@ -6,7 +6,7 @@ Welcome to the first phase of the Microsoft Student Accelerator for 2022!
 
 This repository contains all the necessary material to complete Phase 1 of the program.
 
-Please refer to this README for guidance. If you are unsure of anything please reach out in our Discord channel and one of our handy-dandy MSP's are more than happy to help you out :simple_smile:
+Please refer to this README for guidance. If you are unsure of anything please reach out in our Discord channel and one of our handy-dandy MSP's are more than happy to help you out :simple_smile::simple_smile::simple_smile:
 
 ---
 
